@@ -1,3 +1,5 @@
+旋转编码器
+
 Rotary Encoder Library
 ======================
 
